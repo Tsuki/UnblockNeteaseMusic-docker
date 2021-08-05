@@ -1,0 +1,5 @@
+github.com/cnsilvan/UnblockNeteaseMusic v0.0.0-20210715053400-4a2647a6be46 h1:Gjr+BTYx0hqA8h9k9oJz2dIYQ9aQdzdevjlBFfZdxvs=
+github.com/cnsilvan/UnblockNeteaseMusic v0.0.0-20210715053400-4a2647a6be46/go.mod h1:WEx+rrdSMG3fODDO0F9GSDvMkeFihWgZvVibD8Nei0w=
+golang.org/x/text v0.3.3 h1:cokOdA+Jmi5PJGXLlLllQSgYigAEfHXJAERHVMaCc2k=
+golang.org/x/text v0.3.3/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=
+golang.org/x/tools v0.0.0-20180917221912-90fa682c2a6e/go.mod h1:n7NCudcB/nEzxVGmLbDWY5pfWTLqBcC2KZ6jyYvM4mQ=
